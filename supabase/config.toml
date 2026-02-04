@@ -1,0 +1,7 @@
+project_id = "iyhpmmxdfyvlzpubcdfd"
+
+[functions.bodhit-chat]
+verify_jwt = false
+
+[functions.generate-milestones]
+verify_jwt = false
